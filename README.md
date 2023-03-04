@@ -1,6 +1,6 @@
-# Actividad 1
+# Actividad 2
 
-### Redes y Aplicaciones
+### Pricing en EC2
 
 ##### Analítica Computacional para la Toma de Decisiones
 
