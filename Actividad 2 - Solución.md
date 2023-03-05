@@ -240,6 +240,10 @@ En el nuevo campo creado ingrese datos para Glacier Deep Archive. Fije los datos
 
 ![1_23_5](image/Actividad2-Solución/1_23_5.png)
 
+![1_23_6](image/Actividad2-Solución/1_23_6.png)
+
+Podemos observar que el costo estándar de S3 es mayor que el de S3 Glacier Deep Archive por 6.16 USD. La diferencia en los precios se debe a que cada uno sirve para diferencias en los modelos de precios y los casos de uso de almacenamiento de datos. Mientras que Amazon S3 es un servicio de almacenamiento en la nube diseñado para almacenar y recuperar datos de forma rápida y segura, Amazon S3 Glacier Deep Archive es un servicio para almacenar datos a largo plazo y de raro acceso, por lo que es costo de este servicio es significativamente menor que el de S3 estandar.
+
 ---
 
 ### 24.
@@ -254,6 +258,8 @@ Tome un pantallazo y reporte el costo estimado mensual y anual.
 
 ![1_25](image/Actividad2-Solución/1_25.png)
 
+El costo estiamdo mensual de los servicios es de 1,106.19 USD. El costo anual estimado es de 13,274.22 USD.
+
 ---
 
 ### 26.
@@ -261,6 +267,7 @@ Tome un pantallazo y reporte el costo estimado mensual y anual.
 Click en compartir, luego en Aceptar y continuar, copie el enlace público y compátalo en su reporte y en el canal #general de Slack.
 
 Link del Estimador de AWS:
+
 https://calculator.aws/#/estimate?id=42887a22b105ff654bd711b2c88519def9535bf3
 
 Foto de publicado en Slack:
